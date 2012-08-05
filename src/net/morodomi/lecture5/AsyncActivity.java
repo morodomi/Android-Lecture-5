@@ -1,15 +1,8 @@
 package net.morodomi.lecture5;
 
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
-import java.util.Date;
-
 import android.app.Activity;
-import android.app.AlertDialog;
-import android.app.AlertDialog.Builder;
 import android.app.Dialog;
 import android.app.ProgressDialog;
-import android.content.DialogInterface;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.view.View;
