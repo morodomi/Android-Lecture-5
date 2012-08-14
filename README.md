@@ -48,6 +48,9 @@ In this Lecture, you will learn how to process asynchronously.
     .start();
     </pre>
 
+##Presentation Slides(Japanaese)
+ * http://dl.dropbox.com/u/54119179/Android/android-lecture-5.html
+
 ##License
     Copyright (c) on 2012, Masahiro Morodomi
 
